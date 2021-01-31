@@ -13,10 +13,10 @@
 ## 无效
 
 - HD  530 休眠无效
-- Wireless 7265 无法驱动，后期更换BCM943224PCIEBT2
+- Wireless 7265 无法驱动，后期更换BCM943224PCIEBT2 （7265可用itlwm配合HeliPort上网）
 - 4K 未测试
 
 ## 其他
 
-Big Sur 安装会卡12分钟安装bug，后期再处理
+~~Big Sur 安装会卡12分钟安装bug，后期再处理~~ （更新nvram配置已经解决）
 

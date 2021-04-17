@@ -14,7 +14,10 @@
 
 - HD  530 休眠无效
 - Wireless 7265 无法驱动，后期更换BCM943224PCIEBT2 （7265可用itlwm配合HeliPort上网）
+
+## 备注
 - 支持4K （DP转HDMI需要使用PS176芯片才能支持4K 60Hz）
+- 支持HP HDMI Port Flex IO，需要将型号改为MacBookPro13,1
 
 ## 其他
 

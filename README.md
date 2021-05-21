@@ -10,6 +10,11 @@
 - WLAN: Wireless 7265
 - Audio: Conexant CX20632 Audio Codec
 
+## 更新日志
+
+- 升级VirtualSMC,增加YogaSMC，正常显示风扇转速
+- 清理config.plist无效配置
+
 ## 无效
 
 - HD  530 休眠无效

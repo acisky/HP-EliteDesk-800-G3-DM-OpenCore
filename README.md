@@ -12,7 +12,8 @@
 
 ## 更新日志
 
-- 升级VirtualSMC,增加YogaSMC，正常显示风扇转速
+- 定制USB，蓝牙usb为内联
+- 升级VirtualSMC，增加YogaSMC，正常显示风扇转速
 - 清理config.plist无效配置
 
 ## 无效

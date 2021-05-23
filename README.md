@@ -23,9 +23,9 @@
 
 ## 备注
 - 支持4K （DP转HDMI需要使用PS176芯片才能支持4K 60Hz）
-- 支持HP HDMI Port Flex IO，需要将型号改为MacBookPro13,1
+- ~~支持HP HDMI Port Flex IO，需要将型号改为MacBookPro13,1~~
+- HD530使用193b0005可以驱动HDMI接口，正常4K 60Hz显示，与型号无关
 
 ## 其他
 
 ~~Big Sur 安装会卡12分钟安装bug，后期再处理~~ （更新nvram配置已经解决）
-
